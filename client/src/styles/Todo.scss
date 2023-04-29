@@ -1,0 +1,7 @@
+.todo_input + .todo_title {
+  text-decoration: none;
+}
+.todo_input:checked + .todo_title {
+  text-decoration: line-through;
+}
+
